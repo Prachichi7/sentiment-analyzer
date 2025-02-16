@@ -1,3 +1,3 @@
 # sentiment-analyzer
 
-Repo for sentiment analyzer project
+-Repo for sentiment analyzer project
